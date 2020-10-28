@@ -1,3 +1,3 @@
 # math-challenge-bot
 
-This project w
+This project was bootstrapped w
