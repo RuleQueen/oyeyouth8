@@ -1,1 +1,1 @@
-# math-cha
+# math-challenge-bot
