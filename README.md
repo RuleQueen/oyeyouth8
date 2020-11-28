@@ -8,4 +8,4 @@ A demo for draft version multi-turns proposal.
 ## Start
 
 ```sh
-yarn
+yarn start --consol
