@@ -1,3 +1,4 @@
 module.exports = {
   session: {
-    driver: 'mem
+    driver: 'memory',
+    st
