@@ -3,4 +3,6 @@ module.exports = {
     driver: 'memory',
     stores: {
       memory: {
-        maxSiz
+        maxSize: 500,
+      },
+  
