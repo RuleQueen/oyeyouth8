@@ -5,4 +5,5 @@ module.exports = {
       memory: {
         maxSize: 500,
       },
-  
+      file: {
+ 
