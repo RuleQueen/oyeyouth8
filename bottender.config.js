@@ -6,4 +6,4 @@ module.exports = {
         maxSize: 500,
       },
       file: {
- 
+        dirname
