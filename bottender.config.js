@@ -6,4 +6,6 @@ module.exports = {
         maxSize: 500,
       },
       file: {
-        dirname: '.sessions'
+        dirname: '.sessions',
+      },
+      
