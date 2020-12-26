@@ -9,4 +9,5 @@ module.exports = {
         dirname: '.sessions',
       },
       redis: {
-        port: 6379
+        port: 6379,
+       
