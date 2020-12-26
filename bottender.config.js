@@ -10,4 +10,4 @@ module.exports = {
       },
       redis: {
         port: 6379,
-       
+        host: '1
