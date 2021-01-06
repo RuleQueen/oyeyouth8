@@ -15,4 +15,4 @@ module.exports = {
         db: 0,
       },
       mongo: {
-        url: 'mongodb:
+        url: 'mongodb://localhost:2
