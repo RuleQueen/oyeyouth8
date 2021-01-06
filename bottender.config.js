@@ -15,4 +15,4 @@ module.exports = {
         db: 0,
       },
       mongo: {
-        u
+        url: 'mongodb:
