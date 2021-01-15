@@ -21,4 +21,5 @@ module.exports = {
     },
   },
 
-  initialState:
+  initialState: {
+    score: 0
