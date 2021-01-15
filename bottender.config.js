@@ -22,4 +22,7 @@ module.exports = {
   },
 
   initialState: {
-    score: 0
+    score: 0,
+  },
+
+  chann
