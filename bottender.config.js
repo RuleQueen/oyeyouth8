@@ -25,4 +25,5 @@ module.exports = {
     score: 0,
   },
 
-  chann
+  channels: {
+  
