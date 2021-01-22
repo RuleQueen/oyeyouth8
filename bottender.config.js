@@ -28,4 +28,5 @@ module.exports = {
   channels: {
     messenger: {
       enabled: false,
-      path: '/webhooks/messen
+      path: '/webhooks/messenger',
+      p
