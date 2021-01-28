@@ -29,4 +29,4 @@ module.exports = {
     messenger: {
       enabled: false,
       path: '/webhooks/messenger',
-      pageId: process.env.MESSENGER_P
+      pageId: process.env.MESSENGER_PAGE_ID,
