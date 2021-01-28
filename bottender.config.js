@@ -30,3 +30,4 @@ module.exports = {
       enabled: false,
       path: '/webhooks/messenger',
       pageId: process.env.MESSENGER_PAGE_ID,
+      access
