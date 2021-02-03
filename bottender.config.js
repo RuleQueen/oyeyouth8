@@ -31,4 +31,4 @@ module.exports = {
       path: '/webhooks/messenger',
       pageId: process.env.MESSENGER_PAGE_ID,
       accessToken: process.env.MESSENGER_ACCESS_TOKEN,
-      app
+      appId: process.env.
