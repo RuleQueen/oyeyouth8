@@ -32,4 +32,5 @@ module.exports = {
       pageId: process.env.MESSENGER_PAGE_ID,
       accessToken: process.env.MESSENGER_ACCESS_TOKEN,
       appId: process.env.MESSENGER_APP_ID,
-      appSecret: process.env.MESSENGER_APP_SECRET
+      appSecret: process.env.MESSENGER_APP_SECRET,
+      verifyT
