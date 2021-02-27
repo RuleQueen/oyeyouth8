@@ -35,4 +35,5 @@ module.exports = {
       appSecret: process.env.MESSENGER_APP_SECRET,
       verifyToken: process.env.MESSENGER_VERIFY_TOKEN,
     },
-   
+    line: {
+  
