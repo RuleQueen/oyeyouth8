@@ -37,4 +37,4 @@ module.exports = {
     },
     line: {
       enabled: false,
-      path: 
+      path: '/webhooks/l
