@@ -38,4 +38,4 @@ module.exports = {
     line: {
       enabled: false,
       path: '/webhooks/line',
-      acce
+      accessToken: pro
