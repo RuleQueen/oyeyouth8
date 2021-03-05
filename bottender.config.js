@@ -38,4 +38,4 @@ module.exports = {
     line: {
       enabled: false,
       path: '/webhooks/line',
-      accessToken: process.env.LI
+      accessToken: process.env.LINE_ACCESS_
