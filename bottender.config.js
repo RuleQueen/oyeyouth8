@@ -39,4 +39,4 @@ module.exports = {
       enabled: false,
       path: '/webhooks/line',
       accessToken: process.env.LINE_ACCESS_TOKEN,
-      channe
+      channelSecret: 
