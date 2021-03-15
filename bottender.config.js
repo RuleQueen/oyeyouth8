@@ -43,4 +43,4 @@ module.exports = {
     },
     telegram: {
       enabled: false,
-      pa
+      path: '/webhooks
