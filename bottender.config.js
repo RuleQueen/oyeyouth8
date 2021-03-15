@@ -42,4 +42,4 @@ module.exports = {
       channelSecret: process.env.LINE_CHANNEL_SECRET,
     },
     telegram: {
-    
+      enabled: false,
