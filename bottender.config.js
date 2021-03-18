@@ -44,4 +44,6 @@ module.exports = {
     telegram: {
       enabled: false,
       path: '/webhooks/telegram',
-      accessToken: process.env.TELEGRAM_ACCESS_
+      accessToken: process.env.TELEGRAM_ACCESS_TOKEN,
+    },
+  
