@@ -46,4 +46,5 @@ module.exports = {
       path: '/webhooks/telegram',
       accessToken: process.env.TELEGRAM_ACCESS_TOKEN,
     },
-  
+    slack: {
+      ena
