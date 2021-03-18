@@ -47,4 +47,5 @@ module.exports = {
       accessToken: process.env.TELEGRAM_ACCESS_TOKEN,
     },
     slack: {
-      ena
+      enabled: false,
+ 
