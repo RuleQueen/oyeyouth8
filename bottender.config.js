@@ -48,4 +48,4 @@ module.exports = {
     },
     slack: {
       enabled: false,
- 
+      path: '/we
