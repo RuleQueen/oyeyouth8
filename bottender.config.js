@@ -48,4 +48,5 @@ module.exports = {
     },
     slack: {
       enabled: false,
-      path: '/we
+      path: '/webhooks/slack',
+   
