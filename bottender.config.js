@@ -49,4 +49,5 @@ module.exports = {
     slack: {
       enabled: false,
       path: '/webhooks/slack',
-      accessToken: process.env.SLACK_ACCES
+      accessToken: process.env.SLACK_ACCESS_TOKEN,
+      v
