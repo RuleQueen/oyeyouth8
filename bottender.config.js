@@ -52,4 +52,5 @@ module.exports = {
       accessToken: process.env.SLACK_ACCESS_TOKEN,
       verificationToken: process.env.SLACK_VERIFICATION_TOKEN,
     },
-    viber: 
+    viber: {
+      ena
