@@ -53,4 +53,4 @@ module.exports = {
       verificationToken: process.env.SLACK_VERIFICATION_TOKEN,
     },
     viber: {
-      ena
+      enabled: false,
