@@ -54,4 +54,4 @@ module.exports = {
     },
     viber: {
       enabled: false,
-      path: '/web
+      path: '/webhooks/viber
