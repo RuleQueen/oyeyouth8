@@ -54,3 +54,4 @@ module.exports = {
     },
     viber: {
       enabled: false,
+      path: '/web
