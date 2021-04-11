@@ -55,4 +55,4 @@ module.exports = {
     viber: {
       enabled: false,
       path: '/webhooks/viber',
-      accessTok
+      accessToken: process.e
