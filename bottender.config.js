@@ -57,4 +57,5 @@ module.exports = {
       path: '/webhooks/viber',
       accessToken: process.env.VIBER_ACCESS_TOKEN,
       sender: {
-        n
+        name: 'xxxx',
+  
