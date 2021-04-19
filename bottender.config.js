@@ -58,4 +58,5 @@ module.exports = {
       accessToken: process.env.VIBER_ACCESS_TOKEN,
       sender: {
         name: 'xxxx',
+      },
   
