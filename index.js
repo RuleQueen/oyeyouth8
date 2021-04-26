@@ -1,1 +1,1 @@
-const { run
+const { run } = require
