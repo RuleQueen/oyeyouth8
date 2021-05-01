@@ -1,1 +1,1 @@
-const { run } = require('bottende
+const { run } = require('bottender-proposal
