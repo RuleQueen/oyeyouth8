@@ -1,1 +1,1 @@
-const { run } = require('bottender-proposal
+const { run } = require('bottender-proposal-multi-turns'
