@@ -17,3 +17,23 @@ function createMathChallenge() {
 
 const Challenge = addDialog('Challenge', [
   async context => {
+    const { question, answer } = createMathChallenge();
+
+    await context.sendText(question);
+
+    return prompt('inputAnswer', {
+      props: {
+        expectedAnswer: answer,
+      },
+    });
+  },
+  async (context, props) => {
+    const inputAnswer = props.prompt.inputAnswer.trim();
+
+    const isAnswerCorrect = inputAnswer === props.expectedAnswer;
+
+    await context.sendText(
+      isAnswerCorrect ? 'Correct Answer!' : 'Wrong Answer!'
+    );
+
+    context.setState({
