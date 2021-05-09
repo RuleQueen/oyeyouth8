@@ -37,3 +37,11 @@ const Challenge = addDialog('Challenge', [
     );
 
     context.setState({
+      score: isAnswerCorrect
+        ? context.state.score + 1
+        : context.state.score - 1,
+    });
+    await context.sendText(`Your Score: ${context.state.score}`);
+
+    return Challenge;
+  },
