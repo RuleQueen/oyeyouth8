@@ -45,3 +45,8 @@ const Challenge = addDialog('Challenge', [
 
     return Challenge;
   },
+]);
+
+module.exports = async function App() {
+  return Challenge;
+};
