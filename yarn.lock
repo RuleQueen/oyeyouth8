@@ -129,3 +129,15 @@
   dependencies:
     esutils "^2.0.2"
     lodash "^4.17.13"
+    to-fast-properties "^2.0.0"
+
+"@bottender/express@^1.0.0-beta.1":
+  version "1.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@bottender/express/-/express-1.0.0-beta.1.tgz#10cc7b11572b56a987e3ac7eadd3a7755de33c90"
+  integrity sha512-eQO7ARCVlbXP2yrgoXuh12IROX0LuIHD/59ggTzfUPXh6x3XrogJSJJA0hn/4m5LOyKb4ur1r3hhFneW0q6j0w==
+  dependencies:
+    body-parser "^1.19.0"
+    express "^4.17.1"
+    lodash "^4.17.15"
+
+"@cnakazawa/watch@^1.0.3":
