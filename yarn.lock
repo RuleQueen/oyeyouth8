@@ -503,3 +503,11 @@
   integrity sha512-SCcK7mvGi3+ZNz833RRjFIxrn4gI1PPR3NtuIS+6vMkvmsGjosqTJwRt5bAEFLRz+wtJMWv8+uOnZf2hi2QXTg==
 
 "@types/ws@^5.1.1":
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-5.1.2.tgz#f02d3b1cd46db7686734f3ce83bdf46c49decd64"
+  integrity sha512-NkTXUKTYdXdnPE2aUUbGOXE1XfMK527SCvU/9bj86kyFF6kZ9ZnOQ3mK5jADn98Y2vEUD/7wKDgZa7Qst2wYOg==
+  dependencies:
+    "@types/events" "*"
+    "@types/node" "*"
+
+"@types/yargs-parser@*":
