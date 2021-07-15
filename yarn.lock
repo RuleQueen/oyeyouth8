@@ -707,3 +707,12 @@ ansi-colors@^0.2.0:
     ansi-inverse "^0.1.1"
     ansi-italic "^0.1.1"
     ansi-magenta "^0.1.1"
+    ansi-red "^0.1.1"
+    ansi-reset "^0.1.1"
+    ansi-strikethrough "^0.1.1"
+    ansi-underline "^0.1.1"
+    ansi-white "^0.1.1"
+    ansi-yellow "^0.1.1"
+    lazy-cache "^2.0.1"
+
+ansi-cyan@^0.1.1:
