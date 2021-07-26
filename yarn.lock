@@ -868,3 +868,10 @@ anymatch@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/anymatch/-/anymatch-2.0.0.tgz#bcb24b4f37934d9aa7ac17b4adaf89e7c76ef2eb"
   integrity sha512-5teOsQWABXHHBFP9y3skS5P3d/WfWXpv3FUpy+LorMrNYaT9pI4oLMQX7jzQ2KklNpGpWHzdCXTDT2Y3XGlZBw==
+  dependencies:
+    micromatch "^3.1.4"
+    normalize-path "^2.1.1"
+
+append-query@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/append-query/-/append-query-2.1.0.tgz#c3392d2ddf8c70d3f582a14b051b12333da540bf"
