@@ -3571,3 +3571,17 @@ jfs@^0.3.0:
   resolved "https://registry.yarnpkg.com/jfs/-/jfs-0.3.0.tgz#5abce44643b0d0d2d95164396868f22bb1558b04"
   integrity sha1-WrzkRkOw0NLZUWQ5aGjyK7FViwQ=
   dependencies:
+    async "~2.5.0"
+    clone "~2.1.1"
+    mkdirp "~0.5.1"
+    uuid "^3.1.0"
+
+"js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
+  integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
+
+js-yaml@^3.13.1:
+  version "3.13.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
+  integrity sha512-YfbcO7jXDdyj0DGxYVSlSeQNHbD7XPWvrVWeVUujrQEoZzWJIRrCPoyk6kL6IAjAG2IolMK4T0hNUe0HOUs5Jw==
