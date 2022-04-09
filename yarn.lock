@@ -3825,3 +3825,16 @@ lodash@^4.14.0, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15:
   integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-ok@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/log-ok/-/log-ok-0.1.1.tgz#bea3dd36acd0b8a7240d78736b5b97c65444a334"
+  integrity sha1-vqPdNqzQuKckDXhza1uXxlREozQ=
+  dependencies:
+    ansi-green "^0.1.1"
+    success-symbol "^0.1.0"
+
+log-utils@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/log-utils/-/log-utils-0.2.1.tgz#a4c217a0dd9a50515d9b920206091ab3d4e031cf"
+  integrity sha1-pMIXoN2aUFFdm5ICBgkas9TgMc8=
+  dependencies:
+    ansi-colors "^0.2.0"
