@@ -3782,3 +3782,8 @@ load-json-file@^4.0.0:
     graceful-fs "^4.1.2"
     parse-json "^4.0.0"
     pify "^3.0.0"
+    strip-bom "^3.0.0"
+
+locate-path@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/locate-path/-/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
