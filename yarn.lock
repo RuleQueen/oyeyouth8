@@ -3942,3 +3942,11 @@ merge-stream@^2.0.0:
   integrity sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w==
 
 messaging-api-common@^1.0.0-beta.0:
+  version "1.0.0-beta.0"
+  resolved "https://registry.yarnpkg.com/messaging-api-common/-/messaging-api-common-1.0.0-beta.0.tgz#78d2183b255b54d749e5702e582f9784ce46d708"
+  integrity sha512-fhldK+7KtdCVe25lOUAooU4HW1ory6QsGloEM1fvAAw78F2Ns6WxIxaEk18S/IEn79pQnJGKALFE8tcaeRcBhg==
+  dependencies:
+    camel-case "^3.0.0"
+    debug "^4.1.1"
+    map-obj "^4.1.0"
+    snake-case "^2.1.0"
