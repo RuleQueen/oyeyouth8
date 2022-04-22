@@ -3962,3 +3962,10 @@ messaging-api-line@^1.0.0-beta.0:
     invariant "^2.2.4"
     lodash.omit "^4.5.0"
     messaging-api-common "^1.0.0-beta.0"
+    url-join "^4.0.1"
+
+messaging-api-messenger@^1.0.0-beta.0:
+  version "1.0.0-beta.0"
+  resolved "https://registry.yarnpkg.com/messaging-api-messenger/-/messaging-api-messenger-1.0.0-beta.0.tgz#2969e982ef0900d12ac923c0c0ff27d299ce3e73"
+  integrity sha512-8ripuOZeMb3sja0FdmsVIZnB8wq5tE/JWUigW7QPoK70bjCy10bnbmA49q+AiomKTS81TVYqesRJtMtFMMhPqQ==
+  dependencies:
