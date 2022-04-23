@@ -3996,3 +3996,16 @@ messaging-api-telegram@^1.0.0-beta.0:
   resolved "https://registry.yarnpkg.com/messaging-api-telegram/-/messaging-api-telegram-1.0.0-beta.0.tgz#7aa2f69a1d27f91f4a0e6a80d886831decc47863"
   integrity sha512-gTfqhEYTQneAjumUK19gELPNoCB117iFQUoP3yBNVAHlI7rCFiFe3i67XZitC5nxmXoKQPKetrhU3VOBnkjs5g==
   dependencies:
+    axios "^0.19.0"
+    axios-error "^1.0.0-alpha.2"
+    camelcase-keys "^6.0.1"
+    debug "^4.1.1"
+    lodash.omit "^4.5.0"
+    messaging-api-common "^1.0.0-beta.0"
+    snakecase-keys "^3.1.0"
+    to-snake-case "^1.0.0"
+    url-join "^4.0.1"
+
+messaging-api-viber@^1.0.0-beta.0:
+  version "1.0.0-beta.0"
+  resolved "https://registry.yarnpkg.com/messaging-api-viber/-/messaging-api-viber-1.0.0-beta.0.tgz#e529d0d356dd798cb2c0dba8814a6a0d017919ac"
