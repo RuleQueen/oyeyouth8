@@ -3969,3 +3969,21 @@ messaging-api-messenger@^1.0.0-beta.0:
   resolved "https://registry.yarnpkg.com/messaging-api-messenger/-/messaging-api-messenger-1.0.0-beta.0.tgz#2969e982ef0900d12ac923c0c0ff27d299ce3e73"
   integrity sha512-8ripuOZeMb3sja0FdmsVIZnB8wq5tE/JWUigW7QPoK70bjCy10bnbmA49q+AiomKTS81TVYqesRJtMtFMMhPqQ==
   dependencies:
+    append-query "^2.1.0"
+    axios "^0.19.0"
+    axios-error "^1.0.0-alpha.2"
+    form-data "^2.5.0"
+    invariant "^2.2.4"
+    is-plain-object "^3.0.0"
+    lodash "^4.17.15"
+    messaging-api-common "^1.0.0-beta.0"
+    url-join "^4.0.1"
+    warning "^4.0.3"
+
+messaging-api-slack@^1.0.0-beta.0:
+  version "1.0.0-beta.0"
+  resolved "https://registry.yarnpkg.com/messaging-api-slack/-/messaging-api-slack-1.0.0-beta.0.tgz#56520ab2564a5b7e198d1d44bca80a36b9c12af0"
+  integrity sha512-AW6QdoxRknbrVaAIx/WXj4cPsLdHqIILLwq+o+bKwJ/705QqJ+hcXqRM3gO+BpGfuMzAeVx2KjCV3w+hnAiH0A==
+  dependencies:
+    axios "^0.19.0"
+    axios-error "^1.0.0-alpha.2"
