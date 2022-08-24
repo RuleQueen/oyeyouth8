@@ -5022,3 +5022,11 @@ readline-ui@^2.2.3:
   dependencies:
     component-emitter "^1.2.1"
     debug "^2.6.8"
+    readline-utils "^2.2.1"
+    string-width "^2.0.0"
+
+readline-utils@^2.2.1, readline-utils@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/readline-utils/-/readline-utils-2.2.3.tgz#6f847d6b8f1915c391b581c367cd47873862351a"
+  integrity sha1-b4R9a48ZFcORtYHDZ81HhzhiNRo=
+  dependencies:
