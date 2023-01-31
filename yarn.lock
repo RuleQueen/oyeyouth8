@@ -5931,3 +5931,19 @@ to-snake-case@^1.0.0:
   integrity sha1-znRpE4l5RgGah+Yu366upMYIq4w=
   dependencies:
     to-space-case "^1.0.0"
+
+to-space-case@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/to-space-case/-/to-space-case-1.0.0.tgz#b052daafb1b2b29dc770cea0163e5ec0ebc9fc17"
+  integrity sha1-sFLar7Gysp3HcM6gFj5ewOvJ/Bc=
+  dependencies:
+    to-no-case "^1.0.0"
+
+toggle-array@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/toggle-array/-/toggle-array-1.0.1.tgz#cbf5840792bd5097f33117ae824c932affe87d58"
+  integrity sha1-y/WEB5K9UJfzMReugkyTKv/ofVg=
+  dependencies:
+    isobject "^3.0.0"
+
+toidentifier@1.0.0:
